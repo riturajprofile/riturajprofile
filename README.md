@@ -1,5 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact# 💫 About Me<br><br>🎓 Data Science Student at IIT Madras<br><br>🔭 Building Machine Learning applications, interactive analytics dashboards, and data-driven solutions<br><br>🌱 Currently learning Deep Learning, MLOps, Cloud Computing, and System Design<br><br>🏆 Active participant in Kaggle competitions and real-world data science projects<br><br>Interested in Machine Learning, Predictive Analytics, Data Engineering, and AI-powered applications<br><br>
+# About Me:
+
+
+🎓 Data Science Student at IIT Madras
+
+🏅 Diploma in Programming
+
+🏅 Diploma in Machine Learning & Data Science
+
+☁️ AWS Academy Cloud Foundations Graduate
+
+📊 Passionate about Machine Learning, Predictive Analytics, Data Engineering, and Data Visualization
+
+💻 Skilled in Python, SQL, Flask, FastAPI, PostgreSQL, Machine Learning, and Dashboard Development
+
+🏆 Active participant in Kaggle competitions and real-world data science projects
+
+🚀 Interested in building intelligent systems, scalable data solutions, and AI-powered applications that solve practical problems
+
+📈 Committed to continuous learning, research, and transforming complex data into actionable insights
 
 
 ## 🌐 Socials:
